@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll567/build",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/DistributedSystem.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -pedantic -pthread -o CMakeFiles/DistributedSystem.dir/main.cpp.obj -c C:/Users/Xiaomi/Desktop/ll567/main.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll567/main.cpp",
+  "output": "CMakeFiles/DistributedSystem.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll567/build",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/DistributedSystem.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -pedantic -pthread -o CMakeFiles/DistributedSystem.dir/NodeManager.cpp.obj -c C:/Users/Xiaomi/Desktop/ll567/NodeManager.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll567/NodeManager.cpp",
+  "output": "CMakeFiles/DistributedSystem.dir/NodeManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll567/build",
+  "command": "C:/w64devkit/bin/g++.exe  @CMakeFiles/DistributedSystem.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wextra -pedantic -pthread -o CMakeFiles/DistributedSystem.dir/ComputeNode.cpp.obj -c C:/Users/Xiaomi/Desktop/ll567/ComputeNode.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll567/ComputeNode.cpp",
+  "output": "CMakeFiles/DistributedSystem.dir/ComputeNode.cpp.obj"
+}
+]

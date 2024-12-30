@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll3/build",
+  "command": "C:/Users/Xiaomi/bin/c++.exe   -g -std=gnu++17 -o CMakeFiles/parent.dir/parent.cpp.obj -c C:/Users/Xiaomi/Desktop/ll3/parent.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll3/parent.cpp",
+  "output": "CMakeFiles/parent.dir/parent.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll3/build",
+  "command": "C:/Users/Xiaomi/bin/c++.exe   -g -std=gnu++17 -o CMakeFiles/child1.dir/child1.cpp.obj -c C:/Users/Xiaomi/Desktop/ll3/child1.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll3/child1.cpp",
+  "output": "CMakeFiles/child1.dir/child1.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/ll3/build",
+  "command": "C:/Users/Xiaomi/bin/c++.exe   -g -std=gnu++17 -o CMakeFiles/child2.dir/child2.cpp.obj -c C:/Users/Xiaomi/Desktop/ll3/child2.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/ll3/child2.cpp",
+  "output": "CMakeFiles/child2.dir/child2.cpp.obj"
+}
+]

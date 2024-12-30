@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Xiaomi/Desktop/kpp/build",
+  "command": "C:/w64devkit/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/server.dir/server.cpp.obj -c C:/Users/Xiaomi/Desktop/kpp/server.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/kpp/server.cpp",
+  "output": "CMakeFiles/server.dir/server.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/kpp/build",
+  "command": "C:/w64devkit/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/server.dir/GameManager.cpp.obj -c C:/Users/Xiaomi/Desktop/kpp/GameManager.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/kpp/GameManager.cpp",
+  "output": "CMakeFiles/server.dir/GameManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/kpp/build",
+  "command": "C:/w64devkit/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/server.dir/Player.cpp.obj -c C:/Users/Xiaomi/Desktop/kpp/Player.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/kpp/Player.cpp",
+  "output": "CMakeFiles/server.dir/Player.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/kpp/build",
+  "command": "C:/w64devkit/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/client.dir/client.cpp.obj -c C:/Users/Xiaomi/Desktop/kpp/client.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/kpp/client.cpp",
+  "output": "CMakeFiles/client.dir/client.cpp.obj"
+},
+{
+  "directory": "C:/Users/Xiaomi/Desktop/kpp/build",
+  "command": "C:/w64devkit/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/client.dir/GameClient.cpp.obj -c C:/Users/Xiaomi/Desktop/kpp/GameClient.cpp",
+  "file": "C:/Users/Xiaomi/Desktop/kpp/GameClient.cpp",
+  "output": "CMakeFiles/client.dir/GameClient.cpp.obj"
+}
+]

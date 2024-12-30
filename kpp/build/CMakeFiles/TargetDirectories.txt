@@ -1,0 +1,4 @@
+C:/Users/Xiaomi/Desktop/kpp/build/CMakeFiles/server.dir
+C:/Users/Xiaomi/Desktop/kpp/build/CMakeFiles/client.dir
+C:/Users/Xiaomi/Desktop/kpp/build/CMakeFiles/edit_cache.dir
+C:/Users/Xiaomi/Desktop/kpp/build/CMakeFiles/rebuild_cache.dir

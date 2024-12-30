@@ -1,0 +1,205 @@
+﻿"Time of Day","Process Name","PID","Operation","Path","Result","Detail"
+"1:56:28,4235020","parent.exe","8608","Process Start","","SUCCESS","Parent PID: 4792, Command line: ""C:\Users\Xiaomi\Desktop\ll1\build\parent.exe"", Current directory: C:\Users\Xiaomi\Desktop\ll1\build\, Environment: ;	ALLUSERSPROFILE=C:\ProgramData;	APPDATA=C:\Users\Xiaomi\AppData\Roaming;	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_16144_KWAUPXXHDAYRCFWS;	CommonProgramFiles=C:\Program Files\Common Files;	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files;	CommonProgramW6432=C:\Program Files\Common Files;	COMPUTERNAME=DESKTOP-2GTVG0K;	ComSpec=C:\Windows\system32\cmd.exe;	DriverData=C:\Windows\System32\Drivers\DriverData;	HOMEDRIVE=C:;	HOMEPATH=\Users\Xiaomi;	LOCALAPPDATA=C:\Users\Xiaomi\AppData\Local;	LOGONSERVER=\\DESKTOP-2GTVG0K;	NUMBER_OF_PROCESSORS=8;	OneDrive=C:\Users\Xiaomi\OneDrive;	OneDriveConsumer=C:\Users\Xiaomi\OneDrive;	ORIGINAL_XDG_CURRENT_DESKTOP=undefined;	OS=Windows_NT;	Path=c:\users\xiaomi\bin;c:\users\xiaomi\libexec\gcc\x86_64-w64-mingw32\12.3.0;c:\users\xiaomi\libexec\gcc\x86_64-w64-mingw32\13.2.0;C:\Users\Xiaomi\Desktop\gcc\bin;C:\Users\Xiaomi\Desktop\gcc\libexec\gcc\x86_64-w64-mingw32\12.3.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\MinGW\bin;C:\Users\Xiaomi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10\Scripts;C:\Users\Xiaomi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\AmneziaWG\;C:\Program Files\swipl\bin;C:\w64devkit\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Xiaomi\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Xiaomi\AppData\Local\Programs\Python\Python312\;C:\Users\Xiaomi\AppData\Local\Microsoft\WindowsApps;C:\Users\Xiaomi\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;C:\Users\Xiaomi\.bun\bin;D:\Users\Xiaomi\Desktop\WebStorm 2024.1.5\bin;;C:\Users\Xiaomi\AppData\Roaming\npm;C:\MinGW\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.4\bin;;	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL;	PROCESSOR_ARCHITECTURE=AMD64;	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 140 Stepping 1, GenuineIntel;	PROCESSOR_LEVEL=6;	PROCESSOR_REVISION=8c01;	ProgramData=C:\ProgramData;	ProgramFiles=C:\Program Files;	ProgramFiles(x86)=C:\Program Files (x86);	ProgramW6432=C:\Program Files;	PSModulePath=C:\Users\Xiaomi\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;	PUBLIC=C:\Users\Public;	PyCharm Community Edition=C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.4\bin;;	SESSIONNAME=Console;	SystemDrive=C:;	SystemRoot=C:\Windows;	TEMP=C:\Users\Xiaomi\AppData\Local\Temp;	TMP=C:\Users\Xiaomi\AppData\Local\Temp;	USERDOMAIN=DESKTOP-2GTVG0K;	USERDOMAIN_ROAMINGPROFILE=DESKTOP-2GTVG0K;	USERNAME=Xiaomi;	USERPROFILE=C:\Users\Xiaomi;	VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\;	WebStorm=D:\Users\Xiaomi\Desktop\WebStorm 2024.1.5\bin;;	windir=C:\Windows;	ZES_ENABLE_SYSMAN=1;	TERM_PROGRAM=vscode;	TERM_PROGRAM_VERSION=1.96.2;	LANG=en_US.UTF-8;	COLORTERM=truecolor;	GIT_ASKPASS=c:\Users\Xiaomi\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh;	VSCODE_GIT_ASKPASS_NODE=C:\Users\Xiaomi\AppData\Local\Programs\Microsoft VS Code\Code.exe;	VSCODE_GIT_ASKPASS_EXTRA_ARGS=;	VSCODE_GIT_ASKPASS_MAIN=c:\Users\Xiaomi\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js;	VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-0a7eeb2af9-sock;	VSCODE_INJECTION=1"
+"1:56:28,4235165","parent.exe","8608","Thread Create","","SUCCESS","Thread ID: 12580"
+"1:56:28,4254573","parent.exe","8608","Load Image","C:\Users\Xiaomi\Desktop\ll1\build\parent.exe","SUCCESS","Image Base: 0x7ff7ab1c0000, Image Size: 0xd6a000"
+"1:56:28,4258730","parent.exe","8608","Load Image","C:\Windows\System32\ntdll.dll","SUCCESS","Image Base: 0x7ffe8d570000, Image Size: 0x1f8000"
+"1:56:28,4261687","parent.exe","8608","CreateFile","C:\Windows\Prefetch\PARENT.EXE-B05AC01E.pf","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Attributes: n/a, ShareMode: None, AllocationSize: n/a, OpenResult: Opened"
+"1:56:28,4262376","parent.exe","8608","QueryEAFile","C:\Windows\Prefetch\PARENT.EXE-B05AC01E.pf","SUCCESS",""
+"1:56:28,4266343","parent.exe","8608","QueryStandardInformationFile","C:\Windows\Prefetch\PARENT.EXE-B05AC01E.pf","SUCCESS","AllocationSize: 4 096, EndOfFile: 1 578, NumberOfLinks: 1, DeletePending: False, Directory: False"
+"1:56:28,4266601","parent.exe","8608","ReadFile","C:\Windows\Prefetch\PARENT.EXE-B05AC01E.pf","SUCCESS","Offset: 0, Length: 1 578, Priority: Normal"
+"1:56:28,4267232","parent.exe","8608","CloseFile","C:\Windows\Prefetch\PARENT.EXE-B05AC01E.pf","SUCCESS",""
+"1:56:28,4286580","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value"
+"1:56:28,4286818","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value"
+"1:56:28,4287382","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock","NAME NOT FOUND","Length: 80"
+"1:56:28,4287553","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"1:56:28,4287814","parent.exe","8608","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap","REPARSE","Desired Access: Query Value"
+"1:56:28,4287937","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\Segment Heap","NAME NOT FOUND","Desired Access: Query Value"
+"1:56:28,4288337","parent.exe","8608","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:28,4288427","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:28,4288554","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"1:56:28,4288654","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"1:56:28,4291537","parent.exe","8608","CreateFile","C:\Users\Xiaomi\Desktop\ll1\build","SUCCESS","Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+"1:56:28,4292915","parent.exe","8608","Load Image","C:\Windows\System32\kernel32.dll","SUCCESS","Image Base: 0x7ffe8c200000, Image Size: 0xc2000"
+"1:56:28,4294317","parent.exe","8608","Load Image","C:\Windows\System32\KernelBase.dll","SUCCESS","Image Base: 0x7ffe8acb0000, Image Size: 0x2fe000"
+"1:56:28,4307979","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\WMI\Security\3c74afb9-8d82-44e3-b52c-365dbf48382a","NAME NOT FOUND","Length: 528"
+"1:56:28,4310443","parent.exe","8608","QueryNameInformationFile","C:\Windows\System32\KernelBase.dll","SUCCESS","Name: \Windows\System32\KernelBase.dll"
+"1:56:28,4313202","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","REPARSE","Desired Access: Read"
+"1:56:28,4313351","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys","NAME NOT FOUND","Desired Access: Read"
+"1:56:28,4313871","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\WMI\Security\05f95efe-7f75-49c7-a994-60a55cc09571","NAME NOT FOUND","Length: 528"
+"1:56:28,4314312","parent.exe","8608","QueryNameInformationFile","C:\Windows\System32\KernelBase.dll","SUCCESS","Name: \Windows\System32\KernelBase.dll"
+"1:56:28,4314720","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Terminal Server","REPARSE","Desired Access: Read"
+"1:56:28,4315036","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Terminal Server","SUCCESS","Desired Access: Read"
+"1:56:28,4315222","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\Terminal Server\TSAppCompat","NAME NOT FOUND","Length: 548"
+"1:56:28,4315958","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\Terminal Server\TSUserEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:56:28,4316149","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Control\Terminal Server","SUCCESS",""
+"1:56:28,4316521","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\WMI\Security\e36c4458-ed80-4ad7-a8be-52dda1eb5f1c","NAME NOT FOUND","Length: 528"
+"1:56:28,4316924","parent.exe","8608","QueryNameInformationFile","C:\Windows\System32\kernel32.dll","SUCCESS","Name: \Windows\System32\kernel32.dll"
+"1:56:28,4318331","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"1:56:28,4318470","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"1:56:28,4318622","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","REPARSE","Desired Access: Read"
+"1:56:28,4318709","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Srp\GP\DLL","NAME NOT FOUND","Desired Access: Read"
+"1:56:28,4318832","parent.exe","8608","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"1:56:28,4318995","parent.exe","8608","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"1:56:28,4319097","parent.exe","8608","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"1:56:28,4319232","parent.exe","8608","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"1:56:28,4319462","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem\","REPARSE","Desired Access: Read"
+"1:56:28,4319553","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS","Desired Access: Read"
+"1:56:28,4319658","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:56:28,4319803","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Control\FileSystem","SUCCESS",""
+"1:56:28,4321144","parent.exe","8608","Load Image","C:\Windows\System32\msvcrt.dll","SUCCESS","Image Base: 0x7ffe8d490000, Image Size: 0x9e000"
+"1:56:28,4322103","parent.exe","8608","Thread Create","","SUCCESS","Thread ID: 2764"
+"1:56:28,4324443","parent.exe","8608","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:28,4324585","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:28,4324715","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"1:56:28,4324836","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"1:56:28,4325602","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","REPARSE","Desired Access: Read"
+"1:56:28,4325776","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS","Desired Access: Read"
+"1:56:28,4326047","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)","SUCCESS","Type: REG_SZ, Length: 18, Data: 00060305"
+"1:56:28,4326192","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx","SUCCESS","Type: REG_SZ, Length: 26, Data: kernel32.dll"
+"1:56:28,4327282","parent.exe","8608","QueryNameInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\parent.exe","SUCCESS","Name: \Users\Xiaomi\Desktop\ll1\build\parent.exe"
+"1:56:38,0788468","parent.exe","8608","CreateFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0788772","parent.exe","8608","QueryBasicInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","CreationTime: 04.10.2024 10:55:39, LastAccessTime: 28.12.2024 1:53:36, LastWriteTime: 04.10.2024 10:58:40, ChangeTime: 04.10.2024 10:58:40, FileAttributes: A"
+"1:56:38,0788883","parent.exe","8608","CloseFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS",""
+"1:56:38,0790513","parent.exe","8608","CreateFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0790679","parent.exe","8608","QueryBasicInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","CreationTime: 04.10.2024 10:55:39, LastAccessTime: 28.12.2024 1:53:36, LastWriteTime: 04.10.2024 10:58:40, ChangeTime: 04.10.2024 10:58:40, FileAttributes: A"
+"1:56:38,0790744","parent.exe","8608","CloseFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS",""
+"1:56:38,0793740","parent.exe","8608","Load Image","C:\Windows\System32\sechost.dll","SUCCESS","Image Base: 0x7ffe8b9a0000, Image Size: 0x9f000"
+"1:56:38,0795300","parent.exe","8608","Load Image","C:\Windows\System32\rpcrt4.dll","SUCCESS","Image Base: 0x7ffe8b660000, Image Size: 0x123000"
+"1:56:38,0797040","parent.exe","8608","Load Image","C:\Windows\System32\bcrypt.dll","SUCCESS","Image Base: 0x7ffe8ac80000, Image Size: 0x27000"
+"1:56:38,0797381","parent.exe","8608","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager","REPARSE","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:38,0797628","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:38,0797786","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies","NAME NOT FOUND","Length: 24"
+"1:56:38,0797919","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Control\Session Manager","SUCCESS",""
+"1:56:38,0799790","parent.exe","8608","Thread Create","","SUCCESS","Thread ID: 940"
+"1:56:38,0800516","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\WMI\Security\f3a71a4b-6118-4257-8ccb-39a33ba059d4","NAME NOT FOUND","Length: 528"
+"1:56:38,0801015","parent.exe","8608","QueryNameInformationFile","C:\Windows\System32\bcrypt.dll","SUCCESS","Name: \Windows\System32\bcrypt.dll"
+"1:56:38,0802237","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\WMI\Security\ca967c75-04bf-40b5-9a16-98b5f9332a92","NAME NOT FOUND","Length: 528"
+"1:56:38,0802560","parent.exe","8608","QueryNameInformationFile","C:\Windows\System32\sechost.dll","SUCCESS","Name: \Windows\System32\sechost.dll"
+"1:56:38,0803153","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Control\WMI\Security\b6fd710b-f783-4b1c-ab9c-c68099dcc0c7","NAME NOT FOUND","Length: 528"
+"1:56:38,0803431","parent.exe","8608","QueryNameInformationFile","C:\Windows\System32\sechost.dll","SUCCESS","Name: \Windows\System32\sechost.dll"
+"1:56:38,0803744","parent.exe","8608","RegOpenKey","HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:38,0803927","parent.exe","8608","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child1.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:38,0804043","parent.exe","8608","RegOpenKey","HKLM\Software\Microsoft\Wow64\x86\xtajit","NAME NOT FOUND","Desired Access: Query Value"
+"1:56:38,0805190","parent.exe","8608","CreateFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Read Attributes, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0805630","parent.exe","8608","CreateFileMapping","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"1:56:38,0805819","parent.exe","8608","CreateFileMapping","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","SyncType: SyncTypeOther"
+"1:56:38,0806124","parent.exe","8608","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child1.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:38,0806347","parent.exe","8608","QuerySecurityFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","Information: Label"
+"1:56:38,0806815","parent.exe","8608","QueryNameInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","Name: \Users\Xiaomi\Desktop\ll1\build\child1.exe"
+"1:56:38,0837106","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001","SUCCESS","Desired Access: All Access"
+"1:56:38,0837259","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001\\Device\HarddiskVolume3\Users\Xiaomi\Desktop\ll1\build\child1.exe","NAME NOT FOUND","Length: 40"
+"1:56:38,0837544","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001","SUCCESS",""
+"1:56:38,0837699","parent.exe","8608","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\BAM","REPARSE","Desired Access: Query Value"
+"1:56:38,0837851","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\BAM","NAME NOT FOUND","Desired Access: Query Value"
+"1:56:38,0838357","parent.exe","8608","Process Create","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","PID: 18328, Command line: child1.exe ""C:\Users\Xiaomi\Desktop\ll1\first.txt"""
+"1:56:38,0838898","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls","REPARSE","Desired Access: Query Value"
+"1:56:38,0839026","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls","NAME NOT FOUND","Desired Access: Query Value"
+"1:56:38,0839257","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","REPARSE","Desired Access: Query Value, Set Value"
+"1:56:38,0839379","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\SafeBoot\Option","NAME NOT FOUND","Desired Access: Query Value, Set Value"
+"1:56:38,0839527","parent.exe","8608","RegOpenKey","HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","SUCCESS","Desired Access: Query Value"
+"1:56:38,0839764","parent.exe","8608","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled","NAME NOT FOUND","Length: 80"
+"1:56:38,0839976","parent.exe","8608","RegQueryValue","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\AuthenticodeEnabled","SUCCESS","Type: REG_DWORD, Length: 4, Data: 0"
+"1:56:38,0840140","parent.exe","8608","RegCloseKey","HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers","SUCCESS",""
+"1:56:38,0840269","parent.exe","8608","RegOpenKey","HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers","NAME NOT FOUND","Desired Access: Query Value"
+"1:56:38,0840748","parent.exe","8608","RegOpenKey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS","Desired Access: Query Value"
+"1:56:38,0840876","parent.exe","8608","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache","SUCCESS","Type: REG_SZ, Length: 116, Data: C:\Users\Xiaomi\AppData\Local\Microsoft\Windows\INetCache"
+"1:56:38,0841003","parent.exe","8608","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS",""
+"1:56:38,0841114","parent.exe","8608","RegOpenKey","HKCU\Software\Microsoft\Windows NT\CurrentVersion","SUCCESS","Desired Access: Enumerate Sub Keys"
+"1:56:38,0841221","parent.exe","8608","RegOpenKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS","Desired Access: Query Value"
+"1:56:38,0841339","parent.exe","8608","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","NAME NOT FOUND","Length: 16"
+"1:56:38,0841417","parent.exe","8608","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS",""
+"1:56:38,0841632","parent.exe","8608","QuerySecurityFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","Information: Owner, Group, DACL, SACL, Label, Attribute, Process Trust Label, 0x100"
+"1:56:38,0842861","parent.exe","8608","CreateFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0843358","parent.exe","8608","QueryBasicInformationFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","CreationTime: 12.11.2024 22:20:25, LastAccessTime: 28.12.2024 1:56:00, LastWriteTime: 12.11.2024 22:20:25, ChangeTime: 13.11.2024 0:30:43, FileAttributes: A"
+"1:56:38,0843438","parent.exe","8608","CloseFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"1:56:38,0843716","parent.exe","8608","QueryBasicInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","CreationTime: 04.10.2024 10:55:39, LastAccessTime: 28.12.2024 1:53:36, LastWriteTime: 04.10.2024 10:58:40, ChangeTime: 04.10.2024 10:58:40, FileAttributes: A"
+"1:56:38,0844203","parent.exe","8608","RegOpenKey","HKLM\Software\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS","Desired Access: Read"
+"1:56:38,0844341","parent.exe","8608","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PreferExternalManifest","NAME NOT FOUND","Length: 20"
+"1:56:38,0844445","parent.exe","8608","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS",""
+"1:56:38,0844729","parent.exe","8608","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"1:56:38,0844844","parent.exe","8608","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"1:56:38,0845084","parent.exe","8608","RegCloseKey","HKCU","SUCCESS",""
+"1:56:38,0845189","parent.exe","8608","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"1:56:38,0845326","parent.exe","8608","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"1:56:38,0845423","parent.exe","8608","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"1:56:38,0845528","parent.exe","8608","RegOpenKey","HKCU\Control Panel\Desktop\LanguageConfiguration","NAME NOT FOUND","Desired Access: Read"
+"1:56:38,0845615","parent.exe","8608","RegCloseKey","HKCU","SUCCESS",""
+"1:56:38,0845699","parent.exe","8608","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"1:56:38,0845796","parent.exe","8608","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"1:56:38,0845889","parent.exe","8608","RegOpenKey","HKCU\Software\Policies\Microsoft\Control Panel\Desktop","NAME NOT FOUND","Desired Access: Read"
+"1:56:38,0845967","parent.exe","8608","RegOpenKey","HKCU\Control Panel\Desktop","SUCCESS","Desired Access: Read"
+"1:56:38,0846052","parent.exe","8608","RegQueryValue","HKCU\Control Panel\Desktop\PreferredUILanguages","NAME NOT FOUND","Length: 12"
+"1:56:38,0846165","parent.exe","8608","RegCloseKey","HKCU\Control Panel\Desktop","SUCCESS",""
+"1:56:38,0846234","parent.exe","8608","RegCloseKey","HKCU","SUCCESS",""
+"1:56:38,0846309","parent.exe","8608","RegOpenKey","HKLM\Software\Policies\Microsoft\MUI\Settings","NAME NOT FOUND","Desired Access: Read"
+"1:56:38,0846408","parent.exe","8608","RegOpenKey","HKCU","SUCCESS","Desired Access: Maximum Allowed, Granted Access: All Access"
+"1:56:38,0846495","parent.exe","8608","RegOpenKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS","Desired Access: Read"
+"1:56:38,0846582","parent.exe","8608","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","BUFFER OVERFLOW","Length: 12"
+"1:56:38,0846659","parent.exe","8608","RegQueryValue","HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages","SUCCESS","Type: REG_MULTI_SZ, Length: 12, Data: ru-RU"
+"1:56:38,0846755","parent.exe","8608","RegCloseKey","HKCU\Control Panel\Desktop\MuiCached","SUCCESS",""
+"1:56:38,0846822","parent.exe","8608","RegCloseKey","HKCU","SUCCESS",""
+"1:56:38,0850457","parent.exe","8608","RegOpenKey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS","Desired Access: Query Value"
+"1:56:38,0850647","parent.exe","8608","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache","SUCCESS","Type: REG_SZ, Length: 116, Data: C:\Users\Xiaomi\AppData\Local\Microsoft\Windows\INetCache"
+"1:56:38,0850800","parent.exe","8608","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS",""
+"1:56:38,0850912","parent.exe","8608","QuerySecurityFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","Information: Owner, Group, DACL, SACL, Label, Attribute, Process Trust Label, 0x100"
+"1:56:38,0851743","parent.exe","8608","CreateFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0852076","parent.exe","8608","QueryBasicInformationFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","CreationTime: 12.11.2024 22:20:25, LastAccessTime: 28.12.2024 1:56:00, LastWriteTime: 12.11.2024 22:20:25, ChangeTime: 13.11.2024 0:30:43, FileAttributes: A"
+"1:56:38,0852139","parent.exe","8608","CloseFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"1:56:38,0852391","parent.exe","8608","QueryBasicInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS","CreationTime: 04.10.2024 10:55:39, LastAccessTime: 28.12.2024 1:53:36, LastWriteTime: 04.10.2024 10:58:40, ChangeTime: 04.10.2024 10:58:40, FileAttributes: A"
+"1:56:38,0852921","parent.exe","8608","CloseFile","C:\Users\Xiaomi\Desktop\ll1\build\child1.exe","SUCCESS",""
+"1:56:38,0875538","parent.exe","8608","CreateFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0875977","parent.exe","8608","QueryBasicInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","CreationTime: 04.10.2024 10:55:39, LastAccessTime: 28.12.2024 1:53:36, LastWriteTime: 04.10.2024 11:05:10, ChangeTime: 04.10.2024 11:05:10, FileAttributes: A"
+"1:56:38,0876119","parent.exe","8608","CloseFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS",""
+"1:56:38,0881684","parent.exe","8608","CreateFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0882003","parent.exe","8608","QueryBasicInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","CreationTime: 04.10.2024 10:55:39, LastAccessTime: 28.12.2024 1:53:36, LastWriteTime: 04.10.2024 11:05:10, ChangeTime: 04.10.2024 11:05:10, FileAttributes: A"
+"1:56:38,0882102","parent.exe","8608","CloseFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS",""
+"1:56:38,0882507","parent.exe","8608","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child2.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:38,0882667","parent.exe","8608","RegOpenKey","HKLM\Software\Microsoft\Wow64\x86\xtajit","NAME NOT FOUND","Desired Access: Query Value"
+"1:56:38,0883881","parent.exe","8608","CreateFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","Desired Access: Read Data/List Directory, Execute/Traverse, Read Attributes, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0884382","parent.exe","8608","CreateFileMapping","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","FILE LOCKED WITH ONLY READERS","SyncType: SyncTypeCreateSection, PageProtection: PAGE_EXECUTE"
+"1:56:38,0884634","parent.exe","8608","CreateFileMapping","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","SyncType: SyncTypeOther"
+"1:56:38,0885365","parent.exe","8608","RegOpenKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\child2.exe","NAME NOT FOUND","Desired Access: Query Value, Enumerate Sub Keys"
+"1:56:38,0885654","parent.exe","8608","QuerySecurityFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","Information: Label"
+"1:56:38,0886272","parent.exe","8608","QueryNameInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","Name: \Users\Xiaomi\Desktop\ll1\build\child2.exe"
+"1:56:38,0910537","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001","SUCCESS","Desired Access: All Access"
+"1:56:38,0910683","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001\\Device\HarddiskVolume3\Users\Xiaomi\Desktop\ll1\build\child2.exe","NAME NOT FOUND","Length: 40"
+"1:56:38,0910886","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001","SUCCESS",""
+"1:56:38,0910981","parent.exe","8608","RegOpenKey","HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\BAM","REPARSE","Desired Access: Query Value"
+"1:56:38,0911083","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Control\Session Manager\BAM","NAME NOT FOUND","Desired Access: Query Value"
+"1:56:38,0911396","parent.exe","8608","Process Create","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","PID: 12272, Command line: child2.exe ""C:\Users\Xiaomi\Desktop\ll1\second.txt"""
+"1:56:38,0911807","parent.exe","8608","RegOpenKey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS","Desired Access: Query Value"
+"1:56:38,0911946","parent.exe","8608","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache","SUCCESS","Type: REG_SZ, Length: 116, Data: C:\Users\Xiaomi\AppData\Local\Microsoft\Windows\INetCache"
+"1:56:38,0912057","parent.exe","8608","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS",""
+"1:56:38,0912130","parent.exe","8608","RegOpenKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS","Desired Access: Query Value"
+"1:56:38,0912233","parent.exe","8608","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers\C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","NAME NOT FOUND","Length: 16"
+"1:56:38,0912318","parent.exe","8608","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers","SUCCESS",""
+"1:56:38,0912452","parent.exe","8608","QuerySecurityFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","Information: Owner, Group, DACL, SACL, Label, Attribute, Process Trust Label, 0x100"
+"1:56:38,0913302","parent.exe","8608","CreateFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0913671","parent.exe","8608","QueryBasicInformationFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","CreationTime: 12.11.2024 22:20:25, LastAccessTime: 28.12.2024 1:56:00, LastWriteTime: 12.11.2024 22:20:25, ChangeTime: 13.11.2024 0:30:43, FileAttributes: A"
+"1:56:38,0913731","parent.exe","8608","CloseFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"1:56:38,0913943","parent.exe","8608","QueryBasicInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","CreationTime: 04.10.2024 10:55:39, LastAccessTime: 28.12.2024 1:53:36, LastWriteTime: 04.10.2024 11:05:10, ChangeTime: 04.10.2024 11:05:10, FileAttributes: A"
+"1:56:38,0914357","parent.exe","8608","RegOpenKey","HKLM\Software\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS","Desired Access: Read"
+"1:56:38,0914475","parent.exe","8608","RegQueryValue","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PreferExternalManifest","NAME NOT FOUND","Length: 20"
+"1:56:38,0914560","parent.exe","8608","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide","SUCCESS",""
+"1:56:38,0918259","parent.exe","8608","RegOpenKey","HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS","Desired Access: Query Value"
+"1:56:38,0918406","parent.exe","8608","RegQueryValue","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache","SUCCESS","Type: REG_SZ, Length: 116, Data: C:\Users\Xiaomi\AppData\Local\Microsoft\Windows\INetCache"
+"1:56:38,0918606","parent.exe","8608","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders","SUCCESS",""
+"1:56:38,0918745","parent.exe","8608","QuerySecurityFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","Information: Owner, Group, DACL, SACL, Label, Attribute, Process Trust Label, 0x100"
+"1:56:38,0919641","parent.exe","8608","CreateFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+"1:56:38,0920022","parent.exe","8608","QueryBasicInformationFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS","CreationTime: 12.11.2024 22:20:25, LastAccessTime: 28.12.2024 1:56:00, LastWriteTime: 12.11.2024 22:20:25, ChangeTime: 13.11.2024 0:30:43, FileAttributes: A"
+"1:56:38,0920091","parent.exe","8608","CloseFile","C:\Windows\apppatch\sysmain.sdb","SUCCESS",""
+"1:56:38,0920602","parent.exe","8608","QueryBasicInformationFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS","CreationTime: 04.10.2024 10:55:39, LastAccessTime: 28.12.2024 1:53:36, LastWriteTime: 04.10.2024 11:05:10, ChangeTime: 04.10.2024 11:05:10, FileAttributes: A"
+"1:56:38,0921092","parent.exe","8608","CloseFile","C:\Users\Xiaomi\Desktop\ll1\build\child2.exe","SUCCESS",""
+"1:56:51,9123914","parent.exe","8608","Thread Create","","SUCCESS","Thread ID: 13560"
+"1:56:51,9125845","parent.exe","8608","Thread Exit","","SUCCESS","Thread ID: 940, User Time: 0.0000000, Kernel Time: 0.0000000"
+"1:56:51,9125987","parent.exe","8608","Thread Exit","","SUCCESS","Thread ID: 12580, User Time: 0.0000000, Kernel Time: 0.0000000"
+"1:56:51,9126000","parent.exe","8608","Thread Exit","","SUCCESS","Thread ID: 2764, User Time: 0.0000000, Kernel Time: 0.0000000"
+"1:56:51,9127001","parent.exe","8608","Thread Exit","","SUCCESS","Thread ID: 13560, User Time: 0.0000000, Kernel Time: 0.0000000"
+"1:56:51,9131279","parent.exe","8608","Process Exit","","SUCCESS","Exit Status: -1073741510, User Time: 0.0000000 seconds, Kernel Time: 0.0000000 seconds, Private Bytes: 860 160, Peak Private Bytes: 868 352, Working Set: 3 899 392, Peak Working Set: 3 903 488"
+"1:56:51,9131436","parent.exe","8608","RegOpenKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001","SUCCESS","Desired Access: All Access"
+"1:56:51,9131531","parent.exe","8608","RegQueryValue","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001\\Device\HarddiskVolume3\Users\Xiaomi\Desktop\ll1\build\parent.exe","NAME NOT FOUND","Length: 40"
+"1:56:51,9131635","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-615703858-2741458157-3452826841-1001","SUCCESS",""
+"1:56:51,9131933","parent.exe","8608","CloseFile","C:\Users\Xiaomi\Desktop\ll1\build","SUCCESS",""
+"1:56:51,9132511","parent.exe","8608","RegCloseKey","HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions","SUCCESS",""
+"1:56:51,9132682","parent.exe","8608","RegCloseKey","HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options","SUCCESS",""
+"1:56:51,9132786","parent.exe","8608","RegCloseKey","HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion","SUCCESS",""
